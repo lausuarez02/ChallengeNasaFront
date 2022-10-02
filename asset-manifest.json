@@ -1,15 +1,21 @@
 {
   "files": {
     "main.css": "/ChallengeNasaFront/static/css/main.073c9b0a.css",
-    "main.js": "/ChallengeNasaFront/static/js/main.70df8fe1.js",
+    "main.js": "/ChallengeNasaFront/static/js/main.79404923.js",
     "static/js/787.37980ae4.chunk.js": "/ChallengeNasaFront/static/js/787.37980ae4.chunk.js",
+    "static/media/WhatsApp Image 2022-10-02 at 1.29.06 PM (2).jpeg": "/ChallengeNasaFront/static/media/WhatsApp Image 2022-10-02 at 1.29.06 PM (2).1809857f5364afe0ce2f.jpeg",
+    "static/media/WhatsApp Image 2022-10-02 at 1.29.06 PM (1).jpeg": "/ChallengeNasaFront/static/media/WhatsApp Image 2022-10-02 at 1.29.06 PM (1).a027bc75d49adb9493cd.jpeg",
+    "static/media/WhatsApp Image 2022-10-02 at 1.54.28 PM.jpeg": "/ChallengeNasaFront/static/media/WhatsApp Image 2022-10-02 at 1.54.28 PM.1ee41975688e6dae8e46.jpeg",
+    "static/media/WhatsApp Image 2022-10-02 at 1.29.06 PM (3).jpeg": "/ChallengeNasaFront/static/media/WhatsApp Image 2022-10-02 at 1.29.06 PM (3).62ac41495cce368a4ae1.jpeg",
+    "static/media/WhatsApp Image 2022-10-02 at 1.29.06 PM.jpeg": "/ChallengeNasaFront/static/media/WhatsApp Image 2022-10-02 at 1.29.06 PM.2cc592ec1d4ecd9df5bc.jpeg",
+    "static/media/WhatsApp Image 2022-10-02 at 1.54.28 PM (1).jpeg": "/ChallengeNasaFront/static/media/WhatsApp Image 2022-10-02 at 1.54.28 PM (1).511df5236a3947100f76.jpeg",
     "index.html": "/ChallengeNasaFront/index.html",
     "main.073c9b0a.css.map": "/ChallengeNasaFront/static/css/main.073c9b0a.css.map",
-    "main.70df8fe1.js.map": "/ChallengeNasaFront/static/js/main.70df8fe1.js.map",
+    "main.79404923.js.map": "/ChallengeNasaFront/static/js/main.79404923.js.map",
     "787.37980ae4.chunk.js.map": "/ChallengeNasaFront/static/js/787.37980ae4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.70df8fe1.js"
+    "static/js/main.79404923.js"
   ]
 }
