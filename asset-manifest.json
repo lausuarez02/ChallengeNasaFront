@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/ChallengeNasaFront/static/css/main.073c9b0a.css",
-    "main.js": "/ChallengeNasaFront/static/js/main.f6b1c65f.js",
+    "main.js": "/ChallengeNasaFront/static/js/main.62d0166d.js",
     "static/js/787.37980ae4.chunk.js": "/ChallengeNasaFront/static/js/787.37980ae4.chunk.js",
-    "static/media/logo.svg": "/ChallengeNasaFront/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/ChallengeNasaFront/index.html",
     "main.073c9b0a.css.map": "/ChallengeNasaFront/static/css/main.073c9b0a.css.map",
-    "main.f6b1c65f.js.map": "/ChallengeNasaFront/static/js/main.f6b1c65f.js.map",
+    "main.62d0166d.js.map": "/ChallengeNasaFront/static/js/main.62d0166d.js.map",
     "787.37980ae4.chunk.js.map": "/ChallengeNasaFront/static/js/787.37980ae4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.f6b1c65f.js"
+    "static/js/main.62d0166d.js"
   ]
 }
