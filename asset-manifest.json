@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ChallengeNasaFront/static/css/main.073c9b0a.css",
-    "main.js": "/ChallengeNasaFront/static/js/main.c2f9a2c5.js",
+    "main.js": "/ChallengeNasaFront/static/js/main.b89c30e0.js",
     "static/js/787.37980ae4.chunk.js": "/ChallengeNasaFront/static/js/787.37980ae4.chunk.js",
     "static/media/WhatsApp Image 2022-10-02 at 3.00.17 PM (2).jpeg": "/ChallengeNasaFront/static/media/WhatsApp Image 2022-10-02 at 3.00.17 PM (2).4e4e903a49768f2e1a0b.jpeg",
     "static/media/WhatsApp Image 2022-10-02 at 1.29.06 PM (1).jpeg": "/ChallengeNasaFront/static/media/WhatsApp Image 2022-10-02 at 1.29.06 PM (1).a027bc75d49adb9493cd.jpeg",
@@ -10,11 +10,11 @@
     "static/media/WhatsApp Image 2022-10-02 at 1.54.28 PM (1).jpeg": "/ChallengeNasaFront/static/media/WhatsApp Image 2022-10-02 at 1.54.28 PM (1).511df5236a3947100f76.jpeg",
     "index.html": "/ChallengeNasaFront/index.html",
     "main.073c9b0a.css.map": "/ChallengeNasaFront/static/css/main.073c9b0a.css.map",
-    "main.c2f9a2c5.js.map": "/ChallengeNasaFront/static/js/main.c2f9a2c5.js.map",
+    "main.b89c30e0.js.map": "/ChallengeNasaFront/static/js/main.b89c30e0.js.map",
     "787.37980ae4.chunk.js.map": "/ChallengeNasaFront/static/js/787.37980ae4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.c2f9a2c5.js"
+    "static/js/main.b89c30e0.js"
   ]
 }
